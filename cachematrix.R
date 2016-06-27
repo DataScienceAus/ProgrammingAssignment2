@@ -1,7 +1,6 @@
 ## Caching the inverse of a matrix.
 ## Matrix inversion is usually a costly computation and there may be some benefit 
 ## to caching the inverse of a matrix rather than compute it repeatedly 
-## (there are also alternatives to matrix inversion that we will not discuss here). 
 ## 
 ## The functions makeCacheMatrix and cacheSolve are used for computing, storing and retrieving the inversed matrix from cache:
 
